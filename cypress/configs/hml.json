@@ -1,8 +1,8 @@
 { 
     "env": {
         "urls": {
-            "auth": "http://dw-main-api.azr-hml02.dasaexp.io",
-            "baseUrl": "https://nav.dasa.com.br/"
+            "petStore": "https://petstore3.swagger.io/api/v3/pet",
+            "google": "https://www.google.com/"
         }
  
     }   

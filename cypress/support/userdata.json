@@ -1,6 +1,11 @@
 {
-    "systemUser" : "HUB_COMUNICACAO_LOGIN_API",
-    "systemPassword" : "pA]JWnMjK8LHgA7m",
-    "userLogin" : "38482520822",
-    "userPassword" : "Dasa@1234"
+    "id": 100,
+    "name": "Dog Test",
+    "categoryId": 1,
+    "categoryName": "Dogs",
+    "photoUrl": "https://petstore3.swagger.io/api/v3/pet",
+    "tagsId": 0,
+    "tagsName": "tagTest",
+    "status": "available",
+    "search": "dogs"  
 }

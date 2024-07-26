@@ -15,8 +15,8 @@
 
 // Import commands.js using ES2015 syntax:
 import './commands'
-import './commands/backend/login'
-import './commands/frontend/login'
+import './commands/backend/petCreation'
+import './commands/frontend/googleSearch'
 import './methods-rest';
 
 // Alternatively you can use CommonJS syntax:

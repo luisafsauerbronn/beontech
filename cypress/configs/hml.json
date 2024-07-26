@@ -1,0 +1,9 @@
+{ 
+    "env": {
+        "urls": {
+            "auth": "http://dw-main-api.azr-hml02.dasaexp.io",
+            "baseUrl": "https://nav.dasa.com.br/"
+        }
+ 
+    }   
+}
